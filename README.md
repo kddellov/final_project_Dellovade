@@ -4,7 +4,7 @@
 The story I will tell is justification for why all schools should implement mental health screenings to all high school aged students at the beginning of each year.
 To tell the story, I will first start by showing how mental health diseases have been increasing over time and then lead that into the prevalence for high school aged students. By using the data I will show what state mental disease is in for all ages and then break it down further to the target age. Mental health diseases have an average of age of onset of about 15 years old, but average treatment doesn't begin until about 26 years of age. This is because less than 15% of high school aged kids are ever even screened. Then show the percentage of adults obtained a lifelong mental health disorder that started in high school. I will then lead my call to action to be a mental health screening that can be distributd by teachers or guidance counselors. Also, show data that pilot studies have already run to show a program like this effects on classroom behavior, class behavior and more. 
 ### Sketches
-
+![image](https://user-images.githubusercontent.com/59887733/74118149-43011000-4b88-11ea-9b84-41269ae8cc67.png)
 
 
 
