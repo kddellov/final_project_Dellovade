@@ -6,8 +6,12 @@ To tell the story, I will first start by showing how mental health diseases have
 ### Sketches
 ![image](https://user-images.githubusercontent.com/59887733/74118149-43011000-4b88-11ea-9b84-41269ae8cc67.png)
 
+![image](https://user-images.githubusercontent.com/59887733/74118189-63c96580-4b88-11ea-9aa0-d601218db2d5.png)
 
+![image](https://user-images.githubusercontent.com/59887733/74118205-7479db80-4b88-11ea-8fb6-57e12feaa7cf.png)
 
 ### Data
 Data is utilized from the National Institute for Mental Health (https://www.nimh.nih.gov/health/statistics/mental-illness.shtml) , and also from a study aimed at measuring the severity of mental health disorders by comparing between age groups [Linked Here](https://github.com/kddellov/final_project_Dellovade/blob/master/Project%20Data.csv). Data was also pulled from [Substance Abuse and Mental Health Services](https://github.com/kddellov/final_project_Dellovade/blob/master/Copy%20of%20NSDUHsaeExcelTab01-2016.csv). The NIMH data is very robust and can be used in various ways to show macro level trends between things such as age, race or sex. Then I will compare down to a microlevel and the prevalence of obtaining a life long mental health disorder in the target range of my story, which is high school aged kids. I intend to use the data by also adding different elements such as pre-screening and treatment percentages as well (https://www.mhanational.org/online-depression-screening-data-and-statistics-0) and (https://nces.ed.gov/blogs/nces/post/explore-data-on-mental-health-services-in-k-12-public-schools-for-mental-health-awareness-month). Then show that these disorders can turn into life long diseases that begin in high school aged students ( https://namica.org/back-to-school-guide-maintaining-mental-health/) . 
 
+### Method and Medium
+I will use ShortHand to build the visualization. All of the visualizations will be recreated in Tableau and then imported into Shorthand. Throughout the story, I will be building to the point of the importance why mental health issues need to be addressed early on in life. I can furher reinforce the amount of relationships that can be affected, and also change the course of someones life. Policy makers must be held accountable in such a big issue such as mental health disorders. So additional funding to schools should be made available. 
