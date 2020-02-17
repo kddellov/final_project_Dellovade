@@ -24,6 +24,8 @@ My interview script was conversational and was mainly aimed at the best way to s
 I was told that my theme should be different shades of green because the color for mental health awareness is green, so for all the final project it will be shades of green. All 3 of the interviewees thought I could combine some of the graphs because they were repetative, which I thought was interesting. I combined the Prevalence of Mental Disorder Age and Sex charts together. Originally the graph had age broken up into 5 different groups, but with adding more bars to the chart I had to remove 2 of the age groupings. I asked each of them again after I made the change and they believed that since my topic is worried about youth and not overall prevalence then it does not take away from the point of the graph. Someone also mentioned that I should include something subtle to be able to compare youth mental health to the average for all ages if it all possible, so I added it that to a few of the graphs. In the original story board, I included a survey example but after the interviews they made me realize that a survey example does not help and they believed it could be removed, so I did. I was also told that all of the information was nice, but what are they supposed to do with it all. So I included a call to action at the end that could have the person donate directly to NAMI to support mental health issues. 
 
 ### Storyboard
+
+
 ### Wireframes
 ![IMG_3121](https://user-images.githubusercontent.com/59887733/74620629-cd58ef00-5107-11ea-8c95-d3f72a0ad9fb.jpg)
 
@@ -31,5 +33,6 @@ I was told that my theme should be different shades of green because the color f
 
 ![IMG_3122](https://user-images.githubusercontent.com/59887733/74620635-ce8a1c00-5107-11ea-8ec9-654c13507f62.jpg)
 
+![IMG_3124](https://user-images.githubusercontent.com/59887733/74622880-74418900-5110-11ea-9789-15be4b27e626.jpg)
 
 ![IMG_3123](https://user-images.githubusercontent.com/59887733/74622482-f466ef00-510e-11ea-9348-e5a76d60995b.jpg)
