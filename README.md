@@ -15,3 +15,5 @@ Data is utilized from the National Institute for Mental Health (https://www.nimh
 
 ### Method and Medium
 I will use ShortHand to build the visualization. All of the visualizations will be recreated in Tableau and then imported into Shorthand. Throughout the story, I will be building to the point of the importance why mental health issues need to be addressed early on in life. I can furher reinforce the amount of relationships that can be affected, and also change the course of someones life. Policy makers must be held accountable in such a big issue such as mental health disorders. So additional funding to schools should be made available. 
+## Part Two
+### Wireframes
