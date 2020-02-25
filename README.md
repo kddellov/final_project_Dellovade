@@ -54,6 +54,10 @@ A few paragraphs that summarize the work you've done so far.  Talk about the des
 Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
 https://carnegiemellon.shorthandstories.com/improving-mental-health-outcomes/index.html Is my final project link. 
 
-
-Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctlyLinks to an external site..  Make sure to add / update any citations and / or other content that you used to create your data story.  References should also be clearly identified on your final data story itself.  (Part III)
-Include any other information that helps round out your data story. (Part III)
+### Sources and Data: 
+https://www.psychiatry.org/patients-families/what-is-mental-illness was used for defining what a mental issues is. 
+https://www.nimh.nih.gov/health/statistics/mental-illness.shtml was used for high level data on age groups affected and differences between men and women.
+https://www.statista.com/statistics/252393/total-us-expenditure-for-mental-health-services/ was where data was extracted for the rising costs of care graphs. 
+https://journals.lww.com/co-psychiatry/Abstract/2007/07000/Age_of_onset_of_mental_disorders__a_review_of.10.aspx  was used for identifying the age of onset and duration of diseases.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350819/ was used for how many students are exposed to mental health surveys in high school.
+https://journalistsresource.org/studies/government/health-care/mental-health-untreated-children-research/ was the data source used to map the children per state that have a mental health disorder and also the data on how many children do not receive treatment while they have a mental health disorder.
