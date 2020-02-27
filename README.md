@@ -38,7 +38,7 @@ I was told that my theme should be different shades of green because the color f
 
 ![IMG_3123](https://user-images.githubusercontent.com/59887733/74622482-f466ef00-510e-11ea-9348-e5a76d60995b.jpg)
 
- ## Part Three
+### Part Three
 
 
 ### Final data story
