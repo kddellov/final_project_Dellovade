@@ -43,15 +43,10 @@ I was told that my theme should be different shades of green because the color f
 
 ### Final data story
 
-A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
-
  At the very beginning of my project I thought I wanted my project to be strictly around making it mandatory for high school students to take a mental health screening at the beginning of each year. After cleaning the data and running different visualizations, my idea was not supported by the data. So, I pivoted and just brought the issues of mental health forward and framed the fix for the high spending as preventative approach aimed at high school students. So the intended audience is much more broad in the final project. The audience can be anyone wanting to learn more about mental health issues in the US and anyone researching ways to lower costs associated with mental health issues. I thought maybe make this more geared towards policy makers but I don't think there is enough data to fully support my argument from a policy presepective because it is way too high level thinking. However, this information can definitely be used for further cost and benefit analysis. 
+
+ I unfortanutely had to do a total overhaul on my original idea because after working with the data sets I thought would be crucial, ended up being unusable. I decided to build the arugment against costs and how prevention can help lower the costs, but I still used my original idea of mental health screenings for high school students as a way to lower the overall costs and help lower the prevalence for mental health disorders in the US. I made a huge mistake on not working directly with the data while building my wireframes and the sketches. However, the in class peer review sessions were widely important for my final project. I felt stuck and they really helped me think of a new way to show important data.
  
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
-
- I unfortanutely had to do a total overhaul on my original idea because after working with the data sets I thought would be crucial, ended up being unusable. I decided to build the arugment against costs and how prevention can help lower the costs, but I still used my original idea of mental health screenings for high school students as a way to lower the overall costs and help lower the prevalence for mental health disorders in the US. 
-
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
 https://carnegiemellon.shorthandstories.com/improving-mental-health-outcomes/index.html Is my final project link. 
 
 ### Sources and Data: 
